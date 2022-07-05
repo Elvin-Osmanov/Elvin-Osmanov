@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Elvin-Osmanov/Elvin-Osmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvin-Osmanov)](https://github.com/Elvin-Osmanov/github-readme-stats)
 
 Here are some ideas to get you started:
 
